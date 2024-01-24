@@ -82,7 +82,7 @@ html body {
 </div>
 
 <div id="footer">
-	Powered by <a href="//www.php-proxy.com/" target="_blank">PHP-Proxy</a> <?php echo $version; ?>
+	Powered by <a href="//www.php-proxy.com/" target="_blank">Taco-Proxy</a> <?php echo $version; ?>
 </div>
 
 
